@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Yu Han
 
-You can use the [editor on GitHub](https://github.com/VictoriaHY/VictoriaHY.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Yu Han(韩昱), an undergraduate student majoring in computer science at Peking University, Beijing, P.R.China. I also work as an intern student in STRUCT, guided by Professor Jiaying Liu. I'm interested in Computer Vision and Image Generation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact Me
 
-### Markdown
+# EMail
+hy990909@pku.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
