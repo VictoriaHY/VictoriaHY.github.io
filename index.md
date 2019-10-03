@@ -14,5 +14,3 @@ I'm interested in Computer Vision and Image Generation.
 ## EMail
 hy990909@pku.edu.cn
 
-# Awards
-The Third Prize of Peking University ACM ICPC (2018)
