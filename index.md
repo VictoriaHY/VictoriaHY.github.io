@@ -12,5 +12,5 @@ I'm interested in Computer Vision and Image Generation.
 # Contact Me
 
 ## EMail
-hy990909@pku.edu.cn
+vickyhan@pku.edu.cn
 
