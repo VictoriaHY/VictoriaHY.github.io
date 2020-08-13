@@ -20,12 +20,12 @@ vickyhan@pku.edu.cn
 <tr>
 <td style="width: 20%">
   <div class="project-logo">
-  <img src="images/Design-teaser.png" style="width: 100%">
+  <img src="images/Design_teaser.png" style="width: 100%">
   </div>
   </td>
   <td style="width: 70%;">
   <div class="" >
-  <p style="font-size: 18pt;">
+  <p style="font-size: 4pt;">
    From Design Draft to Real Attire: Unaligned Fashion Image Translation
    </p>
    <p>
