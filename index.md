@@ -25,7 +25,7 @@ vickyhan@pku.edu.cn
   </td>
   <td style="width: 70%;">
   <div class="" >
-  <p style="font-size: 4pt;">
+  <p style="font-size: 10pt; color: black">
    From Design Draft to Real Attire: Unaligned Fashion Image Translation
    </p>
    <p>
