@@ -14,3 +14,31 @@ I'm interested in Computer Vision and Image Generation.
 ## EMail
 vickyhan@pku.edu.cn
 
+# Publication
+
+<table>
+<tr>
+<td style="width: 20%">
+  <div class="project-logo">
+  <img src="images/Design-teaser.png" style="width: 100%">
+  </div>
+  </td>
+  <td style="width: 70%;">
+  <div class="" >
+  <p style="font-size: 18pt;">
+   From Design Draft to Real Attire: Unaligned Fashion Image Translation
+   </p>
+   <p>
+   <strong>Yu Han</strong>, Shuai Yang, Wenjing Wang Jiaying Liu
+   </p>
+   <p>
+   ACM Multi Media. 2020.
+   </p>
+   <p>
+   <a href="https://victoriahy.github.io/MM2020/">[Project]</a>
+   <a href="https://arxiv.org/abs/2008.01023">[Paper]</a>
+   </p>
+   </div>
+   </td>
+   </tr>
+ </table>
