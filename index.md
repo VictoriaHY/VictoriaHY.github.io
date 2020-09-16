@@ -32,7 +32,7 @@ vickyhan@pku.edu.cn
    <strong>Yu Han</strong>, Shuai Yang, Wenjing Wang Jiaying Liu
    </p>
    <p>
-   ACM Multi Media. 2020.
+   ACM Multimedia. 2020.
    </p>
    <p>
    <a href="https://victoriahy.github.io/MM2020/">[Project]</a>
