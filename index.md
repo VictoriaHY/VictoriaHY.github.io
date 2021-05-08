@@ -35,7 +35,7 @@ vickyhan@pku.edu.cn
    ACM Multimedia. 2020.
    </p>
    <p>
-   <a href="https://victoriahy.github.io/MM2020/">[Project]</a>
+   <a href="https://victoriahy.github.io/FashionDesignTransfer/">[Project]</a>
    <a href="https://arxiv.org/abs/2008.01023">[Paper]</a>
    </p>
    </div>
